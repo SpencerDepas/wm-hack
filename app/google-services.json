@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "21450669817",
+    "firebase_url": "https://wm-green.firebaseio.com",
+    "project_id": "wm-green",
+    "storage_bucket": "wm-green.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21450669817:android:85ae705f2f54114a",
+        "android_client_info": {
+          "package_name": "clearfaun.com.wm_hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21450669817-5fjtc29jgi9cljnup2nhu1jmnefmtc6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkttqkYV6QkgfZ7xpfpSrOLy8mr5jSGSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21450669817-5fjtc29jgi9cljnup2nhu1jmnefmtc6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
